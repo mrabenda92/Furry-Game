@@ -24,7 +24,6 @@ section#score {
   height: 64px;
 }
 
-
 section#score div {
   width: 10em;
   height: 3em;
@@ -36,9 +35,6 @@ section#score div {
   box-shadow: 1px 1px 5px 1px lightgray;
   margin: 1em auto;
 }
-
-
-
 
 .furry {
   background-image: url('../images/furry.png');
